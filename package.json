@@ -12,6 +12,7 @@
     "mongoose": "^4.2.9"
   },
   "devDependencies": {
+    "mocha": "^2.3.4",
     "should": "^7.1.1"
   }
 }
